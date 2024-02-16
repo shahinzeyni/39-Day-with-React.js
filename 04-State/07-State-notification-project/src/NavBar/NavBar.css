@@ -1,0 +1,14 @@
+.badge-warning {
+  float: right;
+  margin-bottom: -15px;
+  margin-right: -18px;
+  font-size: 10px;
+}
+
+.navbar-brand {
+    color:white;
+}
+
+.navbar-dark {
+    /* background-color: #3c3d41; */
+}
