@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+.box{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: rgb(123, 172, 127);
+    border-radius: 20px;
+    width: 300px;
+    height: 400px;
+    box-shadow: 0px 9px 23px 7px #00000044;
+}
+.cold{
+    background-color: rgb(57, 55, 96);
+}
+
+.hot{
+    background-color: rgb(208, 48, 48);
+}
+
+.title{
+    color: #ffff;
+    font-size: 40px;
+}
+.second_sec{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 212px;
+    width: 212px;
+}
+.fisrt_sec{
+
+    border-radius: 500px;
+    
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #fff;
+
+}
+.counter_number{
+    font-size: 50px;
+    font-weight: bold;
+    color: #ffff;
+}
+.addBtn{
+    color: rgb(255, 255, 255);
+    /* padding: 15px; */
+    width: 80px;
+    height: 80px;
+    border: none;
+    border-radius: 500px;
+    background-color: rgb(204, 24, 162);
+    
+}
+.lowerBtn{
+    color: white;
+    width: 80px;
+    height: 80px;
+    border: none;
+    border-radius: 500px;
+    background-color: rgb(204, 24, 162);
+        
+}
