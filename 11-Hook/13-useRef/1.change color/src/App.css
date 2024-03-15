@@ -1,0 +1,17 @@
+* {
+    font-family: "Source Sans Pro", sans-serif;
+    margin: 0;
+  }
+
+  .container{
+    display: flex;
+
+    position: relative;
+  }
+
+  .color-blue{
+    background-color: blue;
+  }
+  .color-green{
+    background-color: green;
+  }
